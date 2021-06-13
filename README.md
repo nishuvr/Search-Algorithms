@@ -8,6 +8,4 @@ few.
 I implemented a function called tri_traversal which implements three main search
 algorithms - A* search, Uniform Cost Search (UCS), Depth First Search (DFS) 
 
-To run the code - 
-run python sample_test_case.py
 
